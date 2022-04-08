@@ -23,4 +23,5 @@ public class Flight {
         this.origin = origin;
         this.destination = destination;
     }
+
 }
